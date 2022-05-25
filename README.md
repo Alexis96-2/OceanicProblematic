@@ -96,6 +96,7 @@ La pagina puede visualizarla aquí: [Fish Survivor](https://fishsavior.azurewebs
 ### Backend
     https://apifishsavior.azurewebsites.net/
     https://github.com/AzaelBarbosa/OceanicProblematicBack
+    https://github.com/LuisBaezN/FishSavior
 ### IA
 
 Usando LVENet filtramos las siguientes 3 imágenes con tamaños variables:
